@@ -2,7 +2,8 @@
 
 This hackathon project uses a custom Rack MiniProfiler to forward profiling data to Splunk Cloud.
 
-* Relevant configuration: https://github.com/hyfather/myblog/blob/master/config/initializers/mini_profiler.rb
+* Relevant configuration -- https://github.com/hyfather/myblog/blob/master/config/initializers/mini_profiler.rb
+* Forked Rack Miniprofiler -- https://github.com/hyfather/rack-mini-profiler
 
 Installation Instructions
 
