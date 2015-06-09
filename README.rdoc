@@ -1,28 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This hackathon project uses a custom Rack MiniProfiler to forward profiling data to Splunk Cloud.
 
-Things you may want to cover:
+* Relevant configuration: https://github.com/hyfather/myblog/blob/master/config/initializers/mini_profiler.rb
 
-* Ruby version
+Installation Instructions
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* git clone https://github.com/hyfather/myblog.git
+* cd myblog
+* bundle install
+* bundle exec rails server
