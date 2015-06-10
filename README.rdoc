@@ -7,6 +7,7 @@ This hackathon project uses a custom Rack MiniProfiler to forward profiling data
 
 Installation Instructions
 
+* _Recommended_ Install RVM and then Ruby 2.x (http://rvm.io/)
 * git clone https://github.com/hyfather/myblog.git
 * cd myblog
 * bundle install
