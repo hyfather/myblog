@@ -36,7 +36,7 @@ gem 'execjs'
 gem 'ruby-prof', '> 0.16', :git => "https://github.com/hyfather/ruby-prof"
 
 
-gem 'rack-mini-profiler', '> 0.9.3', :git => "https://github.com/hyfather/rack-mini-profiler"
+gem 'rack-mini-profiler', '> 0.9.3', :git => "https://github.com/SplunkStorm/rack-mini-profiler-private"
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
